@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Go rest crud test","This will create new user","SUCCESS","2023-01-02T20:22:44.354Z[Europe/London]","0.0","4.25"
+"Go rest crud test","This test will Update the user information","SUCCESS","2023-01-02T20:22:48.627Z[Europe/London]","0.0","1.14"
+"Go rest crud test","Delete the user and verify if the user is deleted!","SUCCESS","2023-01-02T20:22:49.771Z[Europe/London]","0.0","1.42"
